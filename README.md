@@ -1,4 +1,4 @@
-# Polsia docs
+# Polsia docs and skill
 
 [![skills.sh](https://skills.sh/b/wazootech/wiki)](https://skills.sh/wazootech/wiki)
 
@@ -15,6 +15,8 @@ The scraper starts from the public sitemap at `https://polsia.com/sitemap.xml`, 
 - `references/upstream/pages/` — generated markdown snapshots, one file per URL
 - `references/upstream/manifest.json` — content-addressed manifest for the latest scrape
 - `scripts/sync_polsia_sources.py` — scraper used by GitHub Actions
+- `skills/polsia/SKILL.md` — consolidated master skill for the Polsia workflow
+- `skills/polsia/references/upstream-notes.md` — upstream notes used by the skill
 
 ## Notes
 
