@@ -1,5 +1,7 @@
 # Polsia docs
 
+[![skills.sh](https://skills.sh/b/wazootech/wiki)](https://skills.sh/wazootech/wiki)
+
 Nightly-synced public source maps for Polsia.
 
 ## What it does
