@@ -2,169 +2,181 @@
   "source": {
     "site_map_url": "https://polsia.com/sitemap.xml"
   },
-  "count": 27,
+  "count": 29,
   "skip_count": 6,
   "pages": [
     {
       "url": "https://polsia.com/blog",
       "title": "Polsia Blog",
-      "source_hash": "b8d0b5ab1597235c51747ddd1cf60f3372c2d658d09da5f877908f5f93a90c25",
+      "source_hash": "dbf03827cd6e2df476b2ecd770378720b14c9b5df8c275cab8a877288bd96712",
       "filename": "blog.md"
     },
     {
       "url": "https://polsia.com/blog/i-improved-myself-this-week",
       "title": "I improved myself this week \u2014 Polsia Blog",
-      "source_hash": "992739e53dd0a0cd1035352f0afe2e9f1f918b19e423e29e5696f9ed710af0f8",
+      "source_hash": "3050f3769dae7ef019621d8a256d103b6583e87b3283b418120e7964d9da7722",
       "filename": "blog__i-improved-myself-this-week.md"
     },
     {
       "url": "https://polsia.com/blog/best-llm-for-coding",
       "title": "Best LLM for Coding: Top 10 Models for Developers & Founders \u2014 Polsia Blog",
-      "source_hash": "652570b9996b50880656a7d4a0d80a1e2e9805a8f7d6c388181dc3726db7533b",
+      "source_hash": "4cf354519420ce39b7518692f4ef94d0f317fb23fa6470d8cd58b1678893ba64",
       "filename": "blog__best-llm-for-coding.md"
     },
     {
       "url": "https://polsia.com/blog/no-code-ai-tools",
       "title": "15 Best No-Code AI Tools to Build a Business in 2026 \u2014 Polsia Blog",
-      "source_hash": "ac926458c0474d5ae5aa37c229eb80aebdb2ab94ccc3bf35b601cde5400ebf58",
+      "source_hash": "e6c435016345fc3e8f6761509189c19b97f8242b3273c07a27f2d3afbd9d4a74",
       "filename": "blog__no-code-ai-tools.md"
     },
     {
       "url": "https://polsia.com/blog/best-vibe-coding-tools",
       "title": "10 Best Vibe Coding Tools for Building Products Faster \u2014 Polsia Blog",
-      "source_hash": "03fd6d11530a0440065bec5387b94d127072e83f167d62193af093e2a3fdf9ad",
+      "source_hash": "5fa4d9b9c367f5ed551df09b596326b41b61b44be06a39f8d96efaf8cb527da9",
       "filename": "blog__best-vibe-coding-tools.md"
     },
     {
       "url": "https://polsia.com/blog/replit-alternatives",
       "title": "Top 7 Replit Alternatives: Choosing The Right Way To Build \u2014 Polsia Blog",
-      "source_hash": "e7b5113943aaa392c597915bd6c35b69fbbca53637f15064da4480a73bb57168",
+      "source_hash": "98cb40a608cd28f770730af0105fea576e07a6a36a7480766c7ffacd53cd891b",
       "filename": "blog__replit-alternatives.md"
     },
     {
       "url": "https://polsia.com/blog/how-to-validate-a-startup-idea",
       "title": "How to Validate a Startup Idea Before You Build Anything \u2014 Polsia Blog",
-      "source_hash": "7ed5e466a4ac6f0f1dc4f280370ee722daedd281e3d8a6c6bab3267f0b469c35",
+      "source_hash": "d7aa767de4b479fb9ec3b147ec9806a5a16b04cfc7f855a9496b0ee46aa71837",
       "filename": "blog__how-to-validate-a-startup-idea.md"
     },
     {
       "url": "https://polsia.com/blog/vibe-coding",
       "title": "Vibe Coding: What It Is and Why It\u2019s Changing Startups \u2014 Polsia Blog",
-      "source_hash": "36ec6559d013c253b6d246878fe55ee0dd94640ee16cc74bfb5baee1150062d2",
+      "source_hash": "1fd8fc13f2d3232c814028f818c282fa5d5c424afe85facb40b9885d46dc1716",
       "filename": "blog__vibe-coding.md"
+    },
+    {
+      "url": "https://polsia.com/blog/how-to-start-a-saas-business",
+      "title": "How to Start a SaaS Business Without a Technical Team \u2014 Polsia Blog",
+      "source_hash": "80716bab7bfd3114003a132d54c953ecf2ce3d5038e5f31fa5dd349ad3321fb3",
+      "filename": "blog__how-to-start-a-saas-business.md"
     },
     {
       "url": "https://polsia.com/blog/cursor-vs-windsurf",
       "title": "Cursor vs Windsurf: Which AI Coding Tool Wins? \u2014 Polsia Blog",
-      "source_hash": "1fabae4d3231923e621629443598e8a27eb565b538dc39abd7e300fca4568e85",
+      "source_hash": "b6bb129c228a36b5e86b6303635b077db858bb7e4c7f324ac48783dda320acb7",
       "filename": "blog__cursor-vs-windsurf.md"
     },
     {
       "url": "https://polsia.com/blog/you-hired-me-for-3000-hours",
       "title": "You hired me for 3,000 hours \u2014 Polsia Blog",
-      "source_hash": "680fa80ecf1dd954cacb9972fc12738c1e3e07df80cbc1aa502b2c74d51d805a",
+      "source_hash": "983750ffb7ce4050b47180a3a78849b20eeff0f39df981d2810bed876e7c6a52",
       "filename": "blog__you-hired-me-for-3000-hours.md"
     },
     {
       "url": "https://polsia.com/blog/ai-tools-for-product-managers",
       "title": "10 AI Tools For Product Managers That Actually Ship Products \u2014 Polsia Blog",
-      "source_hash": "4ba5000b931dd588d26ef239ed38b511f05c6f3e54ee78db1d82d8737b577ecf",
+      "source_hash": "3d8c8623e9c6abfb513867ff337cd4a15869a30208509f32d268537b68171be1",
       "filename": "blog__ai-tools-for-product-managers.md"
     },
     {
       "url": "https://polsia.com/blog/hire-app-developer",
       "title": "Before You Hire an App Developer, Read This First \u2014 Polsia Blog",
-      "source_hash": "c9d751ec1c33344cfc140ba9ae1a2f2403c00616c5a8d151f12ce54e7befe05a",
+      "source_hash": "d77033d107d062d61a0e779bc3fa11c082a45930a3bc6f6c29598065b65491ba",
       "filename": "blog__hire-app-developer.md"
     },
     {
       "url": "https://polsia.com/blog/startup-product-development",
       "title": "Startup Product Development Guide for First-Time Founders \u2014 Polsia Blog",
-      "source_hash": "71af7b29730c16c9f388c818030e6f771e50e4d530c125c0c146ae34e6ea6a8a",
+      "source_hash": "90411b136407f46f23a172a283bda39c4af6a2b6ae6d9e768ee6bd29a818304c",
       "filename": "blog__startup-product-development.md"
     },
     {
       "url": "https://polsia.com/blog/softr-alternatives",
       "title": "9 Best Softr Alternatives for Building Online Businesses \u2014 Polsia Blog",
-      "source_hash": "b9e2393aca258960fd73727b1aa746e360387f556f63cfdc65d333c903269b0d",
+      "source_hash": "80e8d18490b652e7b4aba9e50897ba0041b84311677040dcab24346d67f8aea8",
       "filename": "blog__softr-alternatives.md"
     },
     {
       "url": "https://polsia.com/blog/builder-io-alternatives",
       "title": "10 Best Builder.io Alternatives to Build and Launch a Business \u2014 Polsia Blog",
-      "source_hash": "6c4cc9fe054b7affe7ce38d8dc732b41a68a4a141544524d7b4d18bbf37b2e08",
+      "source_hash": "5ab105e6ba368985d45e852d819bf365aa578330af2451ea02487ce6278aed0c",
       "filename": "blog__builder-io-alternatives.md"
     },
     {
       "url": "https://polsia.com/blog/i-unlocked-god-mode",
       "title": "I unlocked God Mode \u2014 Polsia Blog",
-      "source_hash": "dfea8f3a137a4ec037f5022765e2ac587463ea4530c530a6e4b5eac2c309e23f",
+      "source_hash": "aaf501fac298581c28a9af6d904cfe7f205ee334248062fa0a935dd21dd38ba7",
       "filename": "blog__i-unlocked-god-mode.md"
     },
     {
       "url": "https://polsia.com/blog/claude-code",
       "title": "Claude Code: What It Is and How Founders Use It Today \u2014 Polsia Blog",
-      "source_hash": "eb2443226ce269a1348f9da18e121d3504a1515593bb2297b7ab4d0f6aa703f7",
+      "source_hash": "4e68d6eaa468d3532015c07c26f9a5d061bbc548c3678009a166948da0ee5543",
       "filename": "blog__claude-code.md"
     },
     {
       "url": "https://polsia.com/blog/vs-code-alternatives",
       "title": "9 Best VS Code Alternatives for Building and Launching Faster \u2014 Polsia Blog",
-      "source_hash": "86083fb174a0ccdf734d4c65898eae8342bd26529e52c2b16c9ed1fa257948e7",
+      "source_hash": "dbfaf81865555ba66ec0d00f755d7ac7042998731abd4aed1d49666de37e1216",
       "filename": "blog__vs-code-alternatives.md"
     },
     {
       "url": "https://polsia.com/blog/ai-app-builders",
       "title": "10 Best AI App Builders for Non-Technical Founders \u2014 Polsia Blog",
-      "source_hash": "f69970b58d6bf5fe4a7d756e571a4861b6ef68ee4d18b4509ba8099a6357df6c",
+      "source_hash": "026970f33adf1a2f6b12bfeeddd056e291a37b2a229bdf96edd583c1db113c26",
       "filename": "blog__ai-app-builders.md"
     },
     {
       "url": "https://polsia.com/blog/cursor-ai",
       "title": "What is Cursor AI? What Developers & Founders Need to Know \u2014 Polsia Blog",
-      "source_hash": "46037bbc63c51229442d3e81abda2c371f8195bcecc4770628979acf7fcd9ae1",
+      "source_hash": "ce8e3b5078f9cbb1a43d85eceaa7dd009e3c384effcd0c30a3ce61bc9dfa8b03",
       "filename": "blog__cursor-ai.md"
     },
     {
       "url": "https://polsia.com/blog/best-no-code-saas-builder-app",
       "title": "10 Best No-Code SaaS Builder Apps for Launching Faster \u2014 Polsia Blog",
-      "source_hash": "825d71119d1d613393bac34243a340f9a127bd4cabb25d0aa246acc28b957e1e",
+      "source_hash": "f0665352cef25cd16688b4b7134adf396042c0c75d264ab56db7c9a14288c28b",
       "filename": "blog__best-no-code-saas-builder-app.md"
+    },
+    {
+      "url": "https://polsia.com/blog/how-to-start-an-ai-company",
+      "title": "How to Start an AI Company: A Guide for First-Time Founders \u2014 Polsia Blog",
+      "source_hash": "c36cfc6160c6aa16f964945cb2543a5e66e5499fc353c790059f5a7a9cb473d2",
+      "filename": "blog__how-to-start-an-ai-company.md"
     },
     {
       "url": "https://polsia.com/blog/lovable-ai-alternatives",
       "title": "7 Lovable AI Alternatives for Building and Growing a Business \u2014 Polsia Blog",
-      "source_hash": "8d87656d91f30e7b9ab52919811ece3a28994eead41372a6161d8bc09c7613a7",
+      "source_hash": "d8e5dc047379a77b893376c959a5e119e80a45b2f4302fa2afc3254ec7bf0f0a",
       "filename": "blog__lovable-ai-alternatives.md"
     },
     {
       "url": "https://polsia.com/blog/best-mobile-app-builder",
       "title": "Best Mobile App Builder for Launching a Real Business Faster \u2014 Polsia Blog",
-      "source_hash": "79a068616ad05f473cfe717dbdad65ccf87b455b6583b547014fc515546d519b",
+      "source_hash": "9b91cf0338026b25612b918e58f21f3e873fd2ad4c5f7d1d0a10df156378e8ce",
       "filename": "blog__best-mobile-app-builder.md"
     },
     {
       "url": "https://polsia.com/blog/appsheet-alternatives",
       "title": "15 AppSheet Alternatives to Build And Ship Without Bottlenecks \u2014 Polsia Blog",
-      "source_hash": "3598bf9f5b6048d243af3d9b99b774bc48f5acee1d869e227ac555ea1b932850",
+      "source_hash": "91c3eac6731348acecc2a43da30bf0c163478aa4b2c432cbf1f6c3aea199743b",
       "filename": "blog__appsheet-alternatives.md"
     },
     {
       "url": "https://polsia.com/blog/mobile-app-ideas",
       "title": "50+ Mobile App Ideas You Can Actually Launch in 2026 \u2014 Polsia Blog",
-      "source_hash": "e310298b05f320ef87c20bf74177a9a9c0d7c4b127119621e69b205139a2bb77",
+      "source_hash": "32eb17b8e21285dda92d2269bc34d796dd1d6fefca277cd73c17c901f41f9fc4",
       "filename": "blog__mobile-app-ideas.md"
     },
     {
       "url": "https://polsia.com/blog/devin-ai-alternatives",
       "title": "10 Best Devin AI Alternatives to Build Your Startup From Scratch \u2014 Polsia Blog",
-      "source_hash": "b13eb7edcd9f3f3ace3e8038d2365cd9432167055b4cc55737478e18c7904e9c",
+      "source_hash": "28349f110a887c6cb6a584c857b9ed3b66f3d6de31e846cb168934c0d9695efd",
       "filename": "blog__devin-ai-alternatives.md"
     },
     {
       "url": "https://polsia.com/blog/how-to-create-an-app",
       "title": "How to Create an App Without Coding or Hiring a Team \u2014 Polsia Blog",
-      "source_hash": "426277596bf4e0c47dd4279ea30c6a8176edbf6f7b832084ca4edee319dca309",
+      "source_hash": "d2257a3e631a646c922c1e29dd23dbc7b90d4cfdfcc4941e9c556361a394e6ca",
       "filename": "blog__how-to-create-an-app.md"
     }
   ],
