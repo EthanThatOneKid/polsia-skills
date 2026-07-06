@@ -1,6 +1,6 @@
 # Polsia docs and skill
 
-[![skills.sh](https://skills.sh/b/wazootech/wiki)](https://skills.sh/wazootech/wiki)
+[![skills.sh](https://skills.sh/b/ethanthatonekid/polsia-skills)](https://www.skills.sh/ethanthatonekid/polsia-skills)
 
 Nightly-synced public source maps for Polsia.
 
