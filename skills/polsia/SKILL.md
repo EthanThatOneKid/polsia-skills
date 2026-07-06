@@ -23,7 +23,7 @@ Use this skill when the user asks to:
 
 ## Read first
 
-If you need source detail, read `references/upstream-notes.md`. It maps the live sitemap-driven corpus and the blog themes this skill is based on.
+If you need source detail, read `skills/polsia/references/upstream-notes.md`. It maps the live sitemap-driven corpus and the blog themes this skill is based on.
 
 ## Subcommands
 
