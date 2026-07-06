@@ -28,4 +28,4 @@ jobs:
         with:
           commit_message: "chore: nightly Polsia docs sync"
           file_pattern: |
-            references/upstream/**
+            skills/polsia/references/upstream/**

@@ -15,8 +15,8 @@ from pathlib import Path
 from typing import Iterable
 
 DEFAULT_SITE_MAP_URL = "https://polsia.com/sitemap.xml"
-DEFAULT_OUTPUT_DIR = Path(__file__).resolve().parents[1] / "references" / "upstream" / "pages"
-DEFAULT_MANIFEST = Path(__file__).resolve().parents[1] / "references" / "upstream" / "manifest.json"
+DEFAULT_OUTPUT_DIR = Path(__file__).resolve().parents[1] / "skills" / "polsia" / "references" / "upstream" / "pages"
+DEFAULT_MANIFEST = Path(__file__).resolve().parents[1] / "skills" / "polsia" / "references" / "upstream" / "manifest.json"
 
 USER_AGENT = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 

@@ -205,5 +205,6 @@
       "url": "https://polsia.com/subprocessors",
       "reason": "empty text"
     }
-  ]
+  ],
+  "output_dir": "skills/polsia/references/upstream/pages"
 }
