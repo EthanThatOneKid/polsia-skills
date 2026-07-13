@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/how-to-validate-a-startup-idea
 title: How to Validate a Startup Idea Before You Build Anything — Polsia Blog
-source_hash: d7aa767de4b479fb9ec3b147ec9806a5a16b04cfc7f855a9496b0ee46aa71837
+source_hash: cbd1c3b77ffc37c25280d61293efc0cc3ea184270c70125a69bccceea8eb1834
 
 # How to Validate a Startup Idea Before You Build Anything — Polsia Blog
 
@@ -406,6 +406,12 @@ Try Polsia →
 
 More from the Polsia blog
 
+How to Automate My Business: Step-by-Step Guide for Solopreneurs
+
+How to automate my business as a solopreneur? Learn what to automate first, which tools to use, and how to test each workflow.
+
+Polsia team · Jul 11, 2026
+
 How to Start an AI Company: A Guide for First-Time Founders
 
 How to start an AI company without coding? Polsia shows first-time founders the exact steps to build and launch fast.
@@ -415,12 +421,6 @@ Polsia team · Jul 3, 2026
 How to Start a SaaS Business Without a Technical Team
 
 Polsia team · Jul 2, 2026
-
-Startup Product Development Guide for First-Time Founders
-
-Startup product development made simple. Polsia shows first-time founders how to build, test, and launch faster without wasted effort.
-
-Polsia team · Jun 30, 2026
 
 Polsia
 

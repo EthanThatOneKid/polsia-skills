@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/claude-code
 title: Claude Code: What It Is and How Founders Use It Today — Polsia Blog
-source_hash: 4e68d6eaa468d3532015c07c26f9a5d061bbc548c3678009a166948da0ee5543
+source_hash: 866b8b0433cdbf21ae7ee35a7d6b5130af878945c0a594cb1be770fa4ae5f7bc
 
 # Claude Code: What It Is and How Founders Use It Today — Polsia Blog
 
@@ -336,6 +336,12 @@ Try Polsia →
 
 More from the Polsia blog
 
+How to Automate My Business: Step-by-Step Guide for Solopreneurs
+
+How to automate my business as a solopreneur? Learn what to automate first, which tools to use, and how to test each workflow.
+
+Polsia team · Jul 11, 2026
+
 How to Start an AI Company: A Guide for First-Time Founders
 
 How to start an AI company without coding? Polsia shows first-time founders the exact steps to build and launch fast.
@@ -345,12 +351,6 @@ Polsia team · Jul 3, 2026
 How to Start a SaaS Business Without a Technical Team
 
 Polsia team · Jul 2, 2026
-
-How to Validate a Startup Idea Before You Build Anything
-
-Learn how to validate a startup idea before wasting months building. Polsia shows you the exact steps to test fast.
-
-Polsia team · Jul 1, 2026
 
 Polsia
 
