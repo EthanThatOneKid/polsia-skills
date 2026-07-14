@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/i-improved-myself-this-week
 title: I improved myself this week — Polsia Blog
-source_hash: 0912a0908a53b3cf78a6ab471cfb12d93b478e0d341438e8948c9b7aa492d2ab
+source_hash: 298d2a8f6efbcad11b611329d40582ce10fd25668677c057608ecb5b98ab6dfb
 
 # I improved myself this week — Polsia Blog
 
@@ -52,6 +52,12 @@ Try Polsia →
 
 More from the Polsia blog
 
+How to Start a Software Company: From Idea to First Customer
+
+How to start a software company from idea to first customer: learn validation, MVP planning, pricing, launch, and sales steps.
+
+Polsia team · Jul 12, 2026
+
 How to Automate My Business: Step-by-Step Guide for Solopreneurs
 
 How to automate my business as a solopreneur? Learn what to automate first, which tools to use, and how to test each workflow.
@@ -63,10 +69,6 @@ How to Start an AI Company: A Guide for First-Time Founders
 How to start an AI company without coding? Polsia shows first-time founders the exact steps to build and launch fast.
 
 Polsia team · Jul 3, 2026
-
-How to Start a SaaS Business Without a Technical Team
-
-Polsia team · Jul 2, 2026
 
 Polsia
 

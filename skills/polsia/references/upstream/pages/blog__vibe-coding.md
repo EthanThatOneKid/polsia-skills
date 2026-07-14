@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/vibe-coding
 title: Vibe Coding: What It Is and Why It’s Changing Startups — Polsia Blog
-source_hash: 507ce9413adcf09cc6221822131eb83e40e12216c72adb76874a6f1c85adb9cf
+source_hash: d3540124c46b375ad85cc71e309763a52029192d5e2407bc1b8ac41839b9ab54
 
 # Vibe Coding: What It Is and Why It’s Changing Startups — Polsia Blog
 
@@ -342,6 +342,12 @@ Try Polsia →
 
 More from the Polsia blog
 
+How to Start a Software Company: From Idea to First Customer
+
+How to start a software company from idea to first customer: learn validation, MVP planning, pricing, launch, and sales steps.
+
+Polsia team · Jul 12, 2026
+
 How to Automate My Business: Step-by-Step Guide for Solopreneurs
 
 How to automate my business as a solopreneur? Learn what to automate first, which tools to use, and how to test each workflow.
@@ -353,10 +359,6 @@ How to Start an AI Company: A Guide for First-Time Founders
 How to start an AI company without coding? Polsia shows first-time founders the exact steps to build and launch fast.
 
 Polsia team · Jul 3, 2026
-
-How to Start a SaaS Business Without a Technical Team
-
-Polsia team · Jul 2, 2026
 
 Polsia
 
