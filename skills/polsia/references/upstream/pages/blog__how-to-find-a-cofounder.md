@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/how-to-find-a-cofounder
 title: How to Find a Cofounder: A Guide for Aspiring Startup Founders — Polsia Blog
-source_hash: f30dc38992ea76cf1a3395c8907e24522dcff3fe5dcbdd7f52252ce8350f4b60
+source_hash: 011e4d65a82bd7e6e43eb25e60bc726722deea7c675d293edf8532fcd617328f
 
 # How to Find a Cofounder: A Guide for Aspiring Startup Founders — Polsia Blog
 

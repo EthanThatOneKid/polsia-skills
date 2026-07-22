@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/startup-product-development
 title: Startup Product Development Guide for First-Time Founders — Polsia Blog
-source_hash: 508652c5ff933af175050eeee2a382a735eefde903738fa3b510bd113612ac14
+source_hash: a72ced32a7eebf3f5c49eef151c8b671d808fb691cfe6021ef71ebac1be227b1
 
 # Startup Product Development Guide for First-Time Founders — Polsia Blog
 

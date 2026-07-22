@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/how-to-automate-my-business
 title: How to Automate My Business: Step-by-Step Guide for Solopreneurs — Polsia Blog
-source_hash: c3dc266383f792080d87ec4dc948dfb563eb3160b979ac872095ba3aef1ee3de
+source_hash: ca6c4bb48c1025c4f9d471e25c52119704f33c4000d81dd23b971eebe4e9ff73
 
 # How to Automate My Business: Step-by-Step Guide for Solopreneurs — Polsia Blog
 

@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/best-llm-for-coding
 title: Best LLM for Coding: Top 10 Models for Developers & Founders — Polsia Blog
-source_hash: 1d16b84c17dd13b53d2f1bd122e8b6419fe757ee73574872e81680a5f03728ac
+source_hash: 4fce45cb3527f56014572341a5a3f5acdcd789761231973d96555a2f8f4d58c0
 
 # Best LLM for Coding: Top 10 Models for Developers & Founders — Polsia Blog
 

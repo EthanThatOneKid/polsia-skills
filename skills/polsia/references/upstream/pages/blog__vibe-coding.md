@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/vibe-coding
 title: Vibe Coding: What It Is and Why It’s Changing Startups — Polsia Blog
-source_hash: 936605e29aca8ca9e379836be3482c804828133e8199553b20b3062c749ed1d1
+source_hash: 3d658fdb587cefd7f48b953932ec0603e23cfe037b3985952b00f073be3ecc83
 
 # Vibe Coding: What It Is and Why It’s Changing Startups — Polsia Blog
 

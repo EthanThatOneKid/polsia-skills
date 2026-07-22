@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/how-to-start-a-software-company
 title: How to Start a Software Company: From Idea to First Customer — Polsia Blog
-source_hash: a5aca208d0826a75615522364613b180aee8ab1bf2c44906df236f7b30c0c824
+source_hash: da0733972eb7d36c63da4396b131f43f0eab9176f91a7f0c6aa4d1df006d8af8
 
 # How to Start a Software Company: From Idea to First Customer — Polsia Blog
 

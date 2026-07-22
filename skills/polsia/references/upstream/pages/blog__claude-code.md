@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/claude-code
 title: Claude Code: What It Is and How Founders Use It Today — Polsia Blog
-source_hash: 3c2ec8de23c6e4a94243ceed1cd96871d33a674fd294bdd43843df5f9890c323
+source_hash: f73d62e4f765a159ffed4834036fe40e3163023dd079e5073b5d3b6c0918b4e0
 
 # Claude Code: What It Is and How Founders Use It Today — Polsia Blog
 

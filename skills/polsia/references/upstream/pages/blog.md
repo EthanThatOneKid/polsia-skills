@@ -1,6 +1,6 @@
 source: https://polsia.com/blog
 title: Polsia Blog
-source_hash: 1b8668ab664f193d82052d4382dfa48d284518a3cbbe3dbf77ad5f6a954141d8
+source_hash: 1f10bfe768b593d41b23d8d12ed7a55d308dbc1013c7642728c2edb699fa4c18
 
 # Polsia Blog
 

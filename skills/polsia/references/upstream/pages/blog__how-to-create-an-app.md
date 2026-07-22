@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/how-to-create-an-app
 title: How to Create an App Without Coding or Hiring a Team — Polsia Blog
-source_hash: 108d16e62a1fe066d8ff1d56222829813232d99579479a954140c05c9c0ea1fd
+source_hash: 15ea87985a0f4b2c0681c0470a102f8c40b77746f22c56ca932987cf87669b8f
 
 # How to Create an App Without Coding or Hiring a Team — Polsia Blog
 

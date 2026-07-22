@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/how-to-start-an-ai-company
 title: How to Start an AI Company: A Guide for First-Time Founders — Polsia Blog
-source_hash: 374fbcaa4d703c4c69afa67c4ae7a522cf2758517ecda59a53364a14a46d0929
+source_hash: ef2d13a33c2ea8943bbdd14914acf61524dfa91aee6087953b4668a6b7743a5f
 
 # How to Start an AI Company: A Guide for First-Time Founders — Polsia Blog
 

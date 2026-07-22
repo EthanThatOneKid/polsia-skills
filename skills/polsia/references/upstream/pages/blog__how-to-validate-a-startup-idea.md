@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/how-to-validate-a-startup-idea
 title: How to Validate a Startup Idea Before You Build Anything — Polsia Blog
-source_hash: a0d1d80c5db74bd7dace67393d044e02bc7129f68cb99f7f79a76dbd3f1e715f
+source_hash: 4b9a31a960f247cb3339f127ebffa21fba7aee4f334f51f9c3bde38817267d83
 
 # How to Validate a Startup Idea Before You Build Anything — Polsia Blog
 

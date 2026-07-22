@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/cursor-ai
 title: What is Cursor AI? What Developers & Founders Need to Know — Polsia Blog
-source_hash: 088073318369c62479370eedc113882c7152230614a2e596925a0db90b522ff5
+source_hash: 80ce2dd2d00ae0b46dea1cae2c9ae27be2a2b4e3608501ad00f8eb56ca7801aa
 
 # What is Cursor AI? What Developers & Founders Need to Know — Polsia Blog
 

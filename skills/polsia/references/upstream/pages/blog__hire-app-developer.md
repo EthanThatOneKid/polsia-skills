@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/hire-app-developer
 title: Before You Hire an App Developer, Read This First — Polsia Blog
-source_hash: 3db11c0ce2eaf11a237c65634b2d6353a3ec2df2111b7c57584d619f96b4f5fd
+source_hash: f80716878f3b7d80a5dd088cb3822431e70907fe3436ed1adc88e05eccec4681
 
 # Before You Hire an App Developer, Read This First — Polsia Blog
 

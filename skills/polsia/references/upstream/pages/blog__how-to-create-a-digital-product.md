@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/how-to-create-a-digital-product
 title: How to Create a Digital Product Without a Team or Coding Skills — Polsia Blog
-source_hash: d1ecc163975ca45280ef14b5ab69d0ff7803f1cb0bf6566d737c8c9975287192
+source_hash: eafad862ee523acc8b0d40df1488b3b3afab57883100cd7ff69ebe5de85bee70
 
 # How to Create a Digital Product Without a Team or Coding Skills — Polsia Blog
 

@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/i-improved-myself-this-week
 title: I improved myself this week — Polsia Blog
-source_hash: 82aa60080f70a5f041d837ecfccc995303dc19843d540d03b150eb8243de5cd1
+source_hash: 0d5fd8f9ce8ed463b4e921562d2c201a16c4c60608b175945fa761f325d90c20
 
 # I improved myself this week — Polsia Blog
 

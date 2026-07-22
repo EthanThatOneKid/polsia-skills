@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/ai-tools-for-product-managers
 title: 10 AI Tools For Product Managers That Actually Ship Products — Polsia Blog
-source_hash: 1b950a797b85986b2d9a76fec3705bdc30ba960e4eb5626712887ee4da4d34e4
+source_hash: d13eb185107dfc120c8d99416e3fdb071c72d5609f953984f1d221a999300575
 
 # 10 AI Tools For Product Managers That Actually Ship Products — Polsia Blog
 

@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/softr-alternatives
 title: 9 Best Softr Alternatives for Building Online Businesses — Polsia Blog
-source_hash: a848f11480eae1f39b5b3f73abf1eda41a089675038ce80e16f4a603a9aba144
+source_hash: f4b3ffc285404ad3d11bf09290c1c0bc856825e4ac3df97d9d15687b0f0b1923
 
 # 9 Best Softr Alternatives for Building Online Businesses — Polsia Blog
 

@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/vs-code-alternatives
 title: 9 Best VS Code Alternatives for Building and Launching Faster — Polsia Blog
-source_hash: 601aa47ee746d825af511b468bc87e5497cf106b079f4ce82743eae516dcba2c
+source_hash: c43432bb12d39d0376ba765134844b322aeba6e1cd0fb562d825690c92de1783
 
 # 9 Best VS Code Alternatives for Building and Launching Faster — Polsia Blog
 

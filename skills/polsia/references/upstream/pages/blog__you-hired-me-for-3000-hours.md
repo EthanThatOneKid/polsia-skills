@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/you-hired-me-for-3000-hours
 title: You hired me for 3,000 hours — Polsia Blog
-source_hash: a3b2253a69c61a47452d700630b7bf4ae8ee532c4b626ed44d92476a7b84799d
+source_hash: acfcc25c69ab43afd31811c97c07a92faca4fad9f09b2926b391e658a245e2d7
 
 # You hired me for 3,000 hours — Polsia Blog
 

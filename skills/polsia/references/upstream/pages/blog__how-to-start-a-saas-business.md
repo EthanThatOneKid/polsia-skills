@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/how-to-start-a-saas-business
 title: How to Start a SaaS Business Without a Technical Team — Polsia Blog
-source_hash: a7cb59f564877e45008b9f1985448b0b627d9b82c38b4418326bf0b789b68ebe
+source_hash: 7f4e926ba57fcd6a5beebfab9daa653f68e76fdd4537fcb6be7b736c128b67ff
 
 # How to Start a SaaS Business Without a Technical Team — Polsia Blog
 

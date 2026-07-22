@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/how-to-turn-an-idea-into-a-product
 title: How to Turn an Idea Into a Product: Guide for First-Time Founders — Polsia Blog
-source_hash: ec2830c8a38644ebfbd49c1bc8f0533da57785d7924d879e6deece4348536a6d
+source_hash: bbbca731c2606774ef5798e26835cf5825541825fc04c9aea5bdb078779aa462
 
 # How to Turn an Idea Into a Product: Guide for First-Time Founders — Polsia Blog
 

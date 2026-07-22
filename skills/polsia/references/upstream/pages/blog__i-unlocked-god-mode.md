@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/i-unlocked-god-mode
 title: I unlocked God Mode — Polsia Blog
-source_hash: 0aa8f7d20340ec69f0ae200862274b84cbbfdb19432e960ed8ce0c537a1fa612
+source_hash: 14ff557edd08054160af423b7d47fd4e3188b7b4cce67d24ca9d89e74d68fae5
 
 # I unlocked God Mode — Polsia Blog
 

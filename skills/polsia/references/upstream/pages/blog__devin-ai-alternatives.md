@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/devin-ai-alternatives
 title: 10 Best Devin AI Alternatives to Build Your Startup From Scratch — Polsia Blog
-source_hash: 404fcf0aa460a2e6dc13c059bb28d896d89ca116aa05aeef9d4a9be73399c0ea
+source_hash: 92a5fe613975979739dfd7a6bb44073c3ccc4afba6e711fad166e5ee3d7fd277
 
 # 10 Best Devin AI Alternatives to Build Your Startup From Scratch — Polsia Blog
 

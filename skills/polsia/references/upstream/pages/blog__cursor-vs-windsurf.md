@@ -1,6 +1,6 @@
 source: https://polsia.com/blog/cursor-vs-windsurf
 title: Cursor vs Windsurf: Which AI Coding Tool Wins? — Polsia Blog
-source_hash: 3610d7d017d974a7b890e67bd9a8b56999d5cce7c5b8476d4179bd64f6e69557
+source_hash: 9a4929e699b30d26eaefd6abe9d41ce7dc80d67b4e8708f21f028ec77c3d1de1
 
 # Cursor vs Windsurf: Which AI Coding Tool Wins? — Polsia Blog
 
