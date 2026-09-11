@@ -1,6 +1,6 @@
 source: https://polsia.com/subprocessors
 title: Polsia — AI That Runs Your Company While You Sleep
-source_hash: fde930b4521fd541d133d4cfe40a0590bd895d8b00f7b8389df735868f1f486d
+source_hash: 53f3a10eb92b11ba104787bf06493a2154eaa470a7e83802c7f891a8ec66bc71
 
 # Polsia — AI That Runs Your Company While You Sleep
 
