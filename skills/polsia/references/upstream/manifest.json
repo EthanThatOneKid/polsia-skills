@@ -2,50 +2,14 @@
   "source": {
     "site_map_url": "https://polsia.com/sitemap.xml"
   },
-  "count": 41,
-  "skip_count": 0,
+  "count": 35,
+  "skip_count": 6,
   "pages": [
-    {
-      "url": "https://polsia.com/",
-      "title": "Polsia \u2014 AI That Runs Your Company While You Sleep",
-      "source_hash": "f48f7657d5c71f739dc34385e016c5ba51af2e8df15b4bd676e988b44f3a7885",
-      "filename": "index.md"
-    },
-    {
-      "url": "https://polsia.com/about",
-      "title": "Polsia \u2014 AI That Runs Your Company While You Sleep",
-      "source_hash": "f48f7657d5c71f739dc34385e016c5ba51af2e8df15b4bd676e988b44f3a7885",
-      "filename": "about.md"
-    },
     {
       "url": "https://polsia.com/blog",
       "title": "Polsia Blog",
       "source_hash": "2f82ac5ccee205e8e4a88e78e1a6ef51320e22e3206d90a80ab269a0498e8bbc",
       "filename": "blog.md"
-    },
-    {
-      "url": "https://polsia.com/login",
-      "title": "Polsia \u2014 AI That Runs Your Company While You Sleep",
-      "source_hash": "f48f7657d5c71f739dc34385e016c5ba51af2e8df15b4bd676e988b44f3a7885",
-      "filename": "login.md"
-    },
-    {
-      "url": "https://polsia.com/terms",
-      "title": "Polsia \u2014 AI That Runs Your Company While You Sleep",
-      "source_hash": "f48f7657d5c71f739dc34385e016c5ba51af2e8df15b4bd676e988b44f3a7885",
-      "filename": "terms.md"
-    },
-    {
-      "url": "https://polsia.com/privacy",
-      "title": "Polsia \u2014 AI That Runs Your Company While You Sleep",
-      "source_hash": "f48f7657d5c71f739dc34385e016c5ba51af2e8df15b4bd676e988b44f3a7885",
-      "filename": "privacy.md"
-    },
-    {
-      "url": "https://polsia.com/subprocessors",
-      "title": "Polsia \u2014 AI That Runs Your Company While You Sleep",
-      "source_hash": "f48f7657d5c71f739dc34385e016c5ba51af2e8df15b4bd676e988b44f3a7885",
-      "filename": "subprocessors.md"
     },
     {
       "url": "https://polsia.com/blog/i-improved-myself-this-week",
@@ -252,5 +216,30 @@
       "filename": "blog__how-to-create-an-app.md"
     }
   ],
-  "skips": []
+  "skips": [
+    {
+      "url": "https://polsia.com/",
+      "reason": "too little text"
+    },
+    {
+      "url": "https://polsia.com/about",
+      "reason": "too little text"
+    },
+    {
+      "url": "https://polsia.com/login",
+      "reason": "too little text"
+    },
+    {
+      "url": "https://polsia.com/terms",
+      "reason": "too little text"
+    },
+    {
+      "url": "https://polsia.com/privacy",
+      "reason": "too little text"
+    },
+    {
+      "url": "https://polsia.com/subprocessors",
+      "reason": "too little text"
+    }
+  ]
 }
